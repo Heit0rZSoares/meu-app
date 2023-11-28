@@ -11,8 +11,8 @@ const PackingList = () => (
   <div>
     <h1>Packing List</h1>
     <ul>
-      <Item isPacked={true} name="Banana" />
-      <Item isPacked={false} name="Maça" />
+      <Item isPacked={true} name="HotDog" />
+      <Item isPacked={false} name="Cachorro-Quente" />
     </ul>
   </div>
 );
